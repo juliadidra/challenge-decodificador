@@ -1,0 +1,52 @@
+@media screen and (min-width: 1174px){
+    #container_botao{
+        display: flex;
+        flex-direction: row;
+    
+        align-items: center;
+        justify-content: center;
+       }
+    
+       #container_botao > button {
+        width: 60%;
+       }
+
+
+      #container_textos{
+        width: 70%;
+        height: 100%;
+      }
+
+    
+      #div_geral{
+        display: flex;
+        flex-direction: row;
+      }
+      
+      #container_criptografado{
+        height: 90%;
+        align-items: center;
+        justify-content: center;
+        margin-top: 0; 
+        margin-top: 3em;
+        margin: 2em;
+      }
+
+      #container_criptografado > textarea{
+        width: 90%;
+        height: 100%
+      }
+
+      #container_criptografado > button {
+        width: 90%;
+        margin-bottom: 0.5em;
+      }
+
+      #container_mensagem{
+        height: 80%;
+      }
+
+      #img_desktop{
+        display: flex;
+    }
+}
