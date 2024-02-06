@@ -14,4 +14,4 @@ O projeto é inteiramento responsivo (adequando-se a diversas telas) e nele pude
 - ``Mobile-first``
 
 ## 📁 Acesso ao projeto
-Você pode acessar o projeto clicando [aqui](https://juliadidra.github.io/Projeto_WEB1/).
+Você pode acessar o projeto clicando [aqui](https://juliadidra.github.io/challenge-decodificador/).
