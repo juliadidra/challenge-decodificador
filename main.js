@@ -32,8 +32,6 @@ function criptografar() {
         }
     });
 
-    console.log(resultado);
-
     caixa_texto_criptografado.value = resultado;
 }
 
@@ -57,7 +55,6 @@ function descriptografar() {
         }
     });
 
-    console.log(resultado);
     
     caixa_texto_criptografado.value = resultado;
 }

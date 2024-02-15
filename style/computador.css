@@ -14,7 +14,12 @@
 
       #container_textos{
         width: 70%;
-        height: 100%;
+        height: 100vh;
+      }
+
+      #container_outside{
+        height: 100vh;
+        padding: 2em;
       }
 
     
@@ -27,9 +32,7 @@
         height: 90%;
         align-items: center;
         justify-content: center;
-        margin-top: 0; 
-        margin-top: 3em;
-        margin: 2em;
+        
       }
 
       #container_criptografado > textarea{
@@ -48,5 +51,9 @@
 
       #img_desktop{
         display: flex;
+    }
+
+    #caixa_texto{
+      height: 90vh;
     }
 }
